@@ -78,28 +78,29 @@ Free programming training for children 7-15 years old in Kurdish </br>
      <td>https://youtu.be/ygpXC3AxJxA</td>
   </tr>
 
+<tr>
+    <td>9</td>
+    <td>Draw shape and write text</td>
+    <td>شێوە و دەق بکێشە </td>
+     <td>کشیدن اشکال و متن</td>
+     <td>https://youtu.be/t9VEn4a0K4M/td>
+  </tr>
 
-  
+ <tr>
+    <td>10</td>
+    <td>Get input</td>
+    <td>وەرگرتنی زانیاری </td>
+     <td>گرفتن ورودی </td>
+     <td>https://youtu.be/BDM70EQdw-U</td>
+  </tr>
+ 
 
 </table>
 
 
 
 
-9-Draw shape and text
-</br>
-شێوە و دەق بکێشە 
-کشیدن اشکال و متن
-https://youtu.be/t9VEn4a0K4M
-<br/>
-10-Get input
-</br>
-وەرگرتنی زانیاری 
-گرفتن ورودی 
- 
 
-https://youtu.be/BDM70EQdw-U
-<br/>
 11-Single choice input
 https://youtu.be/t2Dsd1Lzhxk
 
