@@ -6,8 +6,9 @@ Free programming training for children 7-15 years old in Kurdish </br>
 
 
 1-Tynker-Tynker programming language 
+<br/>
 بەرنامەسازی منداڵان لەگەڵ Tynker 
-                                                          
+                                                          <br/>
 برنامه نویسی کودکان با Tynker
 
 https://youtu.be/mYTeT43bNHg
