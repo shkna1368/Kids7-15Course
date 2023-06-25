@@ -15,44 +15,32 @@ Free programming training for children 7-15 years old in Kurdish </br>
   </tr>
   <tr>
     <td>1</td>
-    <td>Tynker programming language </td>
+    <td>Tynker visual programming language </td>
     <td>بەرنامەسازی منداڵان لەگەڵ Tynker </td>
         <td>برنامه نویسی کودکان با Tynker</td>
     <td>https://youtu.be/mYTeT43bNHg</td>
   </tr>
   <tr>
-    <td>16</td>
-    <td>14</td>
-    <td>10</td>
-     <td>10</td>
-     <td>10</td>
+    <td>2</td>
+    <td>Install on android</td>
+    <td>دامەزراندن لەAndroid </td>
+     <td>نصب بر روی Android</td>
+     <td>https://youtu.be/icyR9zCQrgo</td>
   </tr>
+
+  <tr>
+    <td>3</td>
+    <td>Install on ios</td>
+    <td>دامەزراندنی لەسەر IOS </td>
+     <td>نصب بر روی IOS</td>
+     <td>https://youtu.be/4kJvKFQog4g</td>
+  </tr>
+
+  
 </table>
 
-1-Tynker-Tynker programming language 
-
-بەرنامەسازی منداڵان لەگەڵ Tynker 
-برنامه نویسی کودکان با Tynker
-
-https://youtu.be/mYTeT43bNHg
-<br/>
-2-Install on android
 
 
-دامەزراندن لەAndroid 
-
-نصب بر روی Android
-
-https://youtu.be/icyR9zCQrgo
-<br/>
-3-Install on ios
-</br>
-دامەزراندنی لەسەر IOS 
-</br>
-نصب بر روی IOS
-</br>
-https://youtu.be/4kJvKFQog4g
-<br/>
 4-Tynker-First app
 </br>
 یەکەم ئەپی تۆ 
