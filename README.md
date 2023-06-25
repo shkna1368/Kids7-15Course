@@ -7,9 +7,11 @@ Free programming training for children 7-15 years old in Kurdish </br>
 
 <table>
   <tr>
-    <th>Person 1</th>
-    <th>Person 2</th>
-    <th>Person 3</th>
+    <th>Rows</th>
+    <th>English</th>
+    <th>کوردی</th>
+     <th>فارسی</th>
+<Youtube>
   </tr>
   <tr>
     <td>Emil</td>
