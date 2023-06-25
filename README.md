@@ -44,27 +44,38 @@ Free programming training for children 7-15 years old in Kurdish </br>
      <td>https://youtu.be/VOJOR-FjxT4</td>
   </tr>
 
+
+  <tr>
+    <td>5</td>
+    <td>Animations</td>
+    <td>ئەنیمەیشنەکان</td>
+     <td>اانیمیشن ها </td>
+     <td>https://youtu.be/7CWDvbcoRiU</td>
+  </tr>
+  
+  <tr>
+    <td>6</td>
+    <td>Brodcast message to actors</td>
+    <td>پەخشکردن و ناردنی نامە </td>
+     <td>پخش کردن و ارسال پیغام ها </td>
+     <td>https://youtu.be/ZuI5tbyzpmM</td>
+  </tr>
+
+    <tr>
+    <td>7</td>
+    <td>Conversation</td>
+    <td>گفتوگۆ </td>
+     <td>مکالمه</td>
+     <td>https://youtu.be/MxQFOLtmCDU</td>
+  </tr>
+
+  
+
   
 </table>
 
 
-5-Animations
-</br>
-ئەنیمەیشنەکان 
-</br>
-انیمیشن ها 
-</br>
-https://youtu.be/7CWDvbcoRiU
-<br/>
-6-Brodcast message to actors
-</br>
-پەخشکردن و ناردنی نامە 
-</br>
-پخش کردن و ارسال پیغام
 
-</br>
-https://youtu.be/ZuI5tbyzpmM
-<br/>
 7-Conversation
 </br>
 گفتوگۆ 
