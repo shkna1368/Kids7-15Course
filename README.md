@@ -1,4 +1,4 @@
-# Kids7-15Course
+# Kids7-15CodingCourse
 Free programming training for children 7-15 years old in Kurdish </br>
 
 ![Screenshot](509110bf-1e38-4955-b8b2-3b1440404ad1.jpg)
