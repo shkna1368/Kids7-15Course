@@ -28,7 +28,7 @@ https://youtu.be/icyR9zCQrgo
 نصب بر روی IOS
 </br>
 https://youtu.be/4kJvKFQog4g
-
+<br/>
 4-Tynker-First app
 </br>
 یەکەم ئەپی تۆ 
@@ -36,7 +36,7 @@ https://youtu.be/4kJvKFQog4g
 اولین برنامه شما
 </br>
 https://youtu.be/VOJOR-FjxT4
-
+<br/>
 5-Animations
 </br>
 ئەنیمەیشنەکان 
@@ -44,7 +44,7 @@ https://youtu.be/VOJOR-FjxT4
 انیمیشن ها 
 </br>
 https://youtu.be/7CWDvbcoRiU
-
+<br/>
 6-Brodcast message to actors
 </br>
 پەخشکردن و ناردنی نامە 
@@ -53,14 +53,14 @@ https://youtu.be/7CWDvbcoRiU
 
 </br>
 https://youtu.be/ZuI5tbyzpmM
-
+<br/>
 7-Conversation
 </br>
 گفتوگۆ 
 </br>
 مکالمه
 https://youtu.be/MxQFOLtmCDU
-
+<br/>
 8-Touch other actors
 </br>
 دەست لێدان لە کارەکتەرەکان 
@@ -74,7 +74,7 @@ https://youtu.be/ygpXC3AxJxA
 شێوە و دەق بکێشە 
 کشیدن اشکال و متن
 https://youtu.be/t9VEn4a0K4M
-
+<br/>
 10-Get input
 </br>
 وەرگرتنی زانیاری 
@@ -82,7 +82,7 @@ https://youtu.be/t9VEn4a0K4M
  
 
 https://youtu.be/BDM70EQdw-U
-
+<br/>
 11-Single choice input
 https://youtu.be/t2Dsd1Lzhxk
 
