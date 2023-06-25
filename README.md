@@ -49,7 +49,7 @@ Free programming training for children 7-15 years old in Kurdish </br>
     <td>5</td>
     <td>Animations</td>
     <td>ئەنیمەیشنەکان</td>
-     <td>اانیمیشن ها </td>
+     <td>انیمیشن ها </td>
      <td>https://youtu.be/7CWDvbcoRiU</td>
   </tr>
   
