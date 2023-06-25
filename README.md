@@ -14,14 +14,18 @@ Free programming training for children 7-15 years old in Kurdish </br>
  <th>Youtube</th>
   </tr>
   <tr>
-    <td>Emil</td>
-    <td>Tobias</td>
-    <td>Linus</td>
+    <td>1</td>
+    <td>Tynker programming language </td>
+    <td>بەرنامەسازی منداڵان لەگەڵ Tynker </td>
+        <td>برنامه نویسی کودکان با Tynker</td>
+    <td>https://youtu.be/mYTeT43bNHg</td>
   </tr>
   <tr>
     <td>16</td>
     <td>14</td>
     <td>10</td>
+     <td>10</td>
+     <td>10</td>
   </tr>
 </table>
 
