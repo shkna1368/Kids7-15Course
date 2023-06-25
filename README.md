@@ -63,11 +63,11 @@ Free programming training for children 7-15 years old in Kurdish </br>
 
 
   <tr>
-    <td>6</td>
-    <td>Brodcast message to actors</td>
-    <td>پەخشکردن و ناردنی نامە </td>
-     <td>پخش کردن و ارسال پیغام ها </td>
-     <td>https://youtu.be/ZuI5tbyzpmM</td>
+    <td>7</td>
+    <td>Conversation</td>
+    <td>گفتوگۆ</td>
+     <td>مکالمه</td>
+     <td>https://youtu.be/MxQFOLtmCDU</td>
   </tr>
   
     <tr>
