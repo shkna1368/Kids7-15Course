@@ -69,26 +69,22 @@ Free programming training for children 7-15 years old in Kurdish </br>
      <td>مکالمه</td>
      <td>https://youtu.be/MxQFOLtmCDU</td>
   </tr>
+
+<tr>
+    <td>8</td>
+    <td>Touch other actors</td>
+    <td>دەست لێدان لە کارەکتەرەکان </td>
+     <td>لمس کردن کاراکترها </td>
+     <td>https://youtu.be/ygpXC3AxJxA</td>
+  </tr>
+
+
   
 
 </table>
 
 
 
-7-Conversation
-</br>
-گفتوگۆ 
-</br>
-مکالمه
-https://youtu.be/MxQFOLtmCDU
-<br/>
-8-Touch other actors
-</br>
-دەست لێدان لە کارەکتەرەکان 
-</br>
-لمس کردن کاراکترها 
-
-https://youtu.be/ygpXC3AxJxA
 
 9-Draw shape and text
 </br>
