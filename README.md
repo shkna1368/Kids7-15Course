@@ -10,34 +10,77 @@ Free programming training for children 7-15 years old in Kurdish </br>
 بەرنامەسازی منداڵان لەگەڵ Tynker 
                                                           <br/>
 برنامه نویسی کودکان با Tynker
-
+<br/>
 https://youtu.be/mYTeT43bNHg
 
 2-Install on android
+<br/>
+
+دامەزراندن لەAndroid 
+ <br/>
+نصب بر روی Android
+<br/>
 https://youtu.be/icyR9zCQrgo
 
 3-Install on ios
+</br>
+دامەزراندنی لەسەر IOS 
+</br>
+نصب بر روی IOS
+</br>
 https://youtu.be/4kJvKFQog4g
 
 4-Tynker-First app
+</br>
+یەکەم ئەپی تۆ 
+اولین برنامه شما
+
 https://youtu.be/VOJOR-FjxT4
 
 5-Animations
+</br>
+ئەنیمەیشنەکان 
+</br>
+انیمیشن ها 
+</br>
 https://youtu.be/7CWDvbcoRiU
 
 6-Brodcast message to actors
+</br>
+پەخشکردن و ناردنی نامە 
+</br>
+پخش کردن و ارسال پیغام
+
+</br>
 https://youtu.be/ZuI5tbyzpmM
 
 7-Conversation
+</br>
+گفتوگۆ 
+</br>
+مکالمه
 https://youtu.be/MxQFOLtmCDU
 
 8-Touch other actors
+</br>
+دەست لێدان لە کارەکتەرەکان 
+</br>
+لمس کردن کاراکترها 
+
 https://youtu.be/ygpXC3AxJxA
 
 9-Draw shape and text
+</br>
+شێوە و دەق بکێشە 
+کشیدن اشکال و متن
 https://youtu.be/t9VEn4a0K4M
 
 10-Get input
+</br>
+وەرگرتنی زانیاری 
+گرفتن ورودی 
+ 
+
 https://youtu.be/BDM70EQdw-U
 
 11-Single choice input
