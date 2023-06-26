@@ -98,16 +98,16 @@ Free programming training for children 7-15 years old in Kurdish </br>
   <tr>
     <td>11</td>
     <td>Single choice input</td>
-    <td></td>
-     <td></td>
+    <td>هاتنە ژوورەوەی تاکە هەڵبژاردن</td>
+     <td>ورودی تک انتخابی</td>
      <td>https://youtu.be/t2Dsd1Lzhxk</td>
   </tr>
 
   <tr>
     <td>12</td>
     <td>Variable</td>
-    <td></td>
-     <td></td>
+    <td>گۆڕاو</td>
+     <td>متغییر</td>
      <td> https://youtu.be/Fqk5GGOvUEU </td>
   </tr>
   
@@ -115,31 +115,31 @@ Free programming training for children 7-15 years old in Kurdish </br>
   <tr>
     <td>13</td>
     <td> Function and join text </td>
-    <td> </td>
-     <td> </td>
+    <td>فەنکشن و بەستنەوەی دەق</td>
+     <td> تابع و الحاق متن</td>
      <td> https://youtu.be/3mGDNjie7gQ </td>
   </tr>
 
    <tr>
     <td>14</td>
     <td>Play a sound</td>
-    <td></td>
-     <td></td>
+    <td>ده‌نگه‌كه‌ كارابكه‌</td>
+     <td>پخش صدا</td>
      <td> https://youtu.be/EgUQoNt8AtE </td>
   </tr>
 
    <tr>
     <td>15</td>
     <td>Random Position</td>
-    <td></td>
-     <td></td>
+    <td>پێگەی هەڕەمەکی</td>
+     <td>موقعیت تصادفی</td>
      <td>https://youtu.be/UbAdodAi6pA</td>
   </tr>
   <tr>
     <td>16</td>
     <td>Pen</td>
-    <td></td>
-     <td></td>
+    <td>پێنووس</td>
+     <td>خودکار</td>
      <td> https://youtu.be/MdGlaXE2foc </td>
   </tr>
 
