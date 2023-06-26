@@ -135,10 +135,7 @@ Free programming training for children 7-15 years old in Kurdish </br>
      <td></td>
      <td>https://youtu.be/UbAdodAi6pA</td>
   </tr>
-
-
- 
-     <tr>
+  <tr>
     <td>16</td>
     <td>Pen</td>
     <td></td>
@@ -146,14 +143,14 @@ Free programming training for children 7-15 years old in Kurdish </br>
      <td> https://youtu.be/MdGlaXE2foc </td>
   </tr>
 
-
- <tr>
+  <tr>
     <td>17</td>
     <td>Phisics</td>
     <td></td>
-     <td></td>
-     <td>https://youtu.be/UJCE28JVrpI</td>
+    <td></td>
+    <td>https://youtu.be/UJCE28JVrpI</td>
   </tr>
+
   
    <tr>
     <td>18</td>
@@ -162,47 +159,50 @@ Free programming training for children 7-15 years old in Kurdish </br>
      <td></td>
      <td>https://youtu.be/3KHdiQyW1Us</td>
   </tr>
+
+
+
  
-       <tr>
+ <tr>
     <td>19</td>
     <td>Obstacles game</td>
     <td></td>
-     <td></td>
-      <td>https://youtu.be/LcnhTYb_Bg8</td>
-  </tr>
+    <td></td>
+    <td>https://youtu.be/LcnhTYb_Bg8</td>
+</tr>
 
 
 
-       <tr>
+  <tr>
     <td>20</td>
     <td>Spinning ovals animation</td>
     <td></td>
-     <td></td>
-     <td>https://youtu.be/Y4QMM4JFd5s</td>
+    <td></td>
+    <td>https://youtu.be/Y4QMM4JFd5s</td>
   </tr>
   
-        <tr>
+  <tr>
     <td>22</td>
     <td>Racer game</td>
     <td></td>
-     <td></td>
-     <td>https://youtu.be/IMfAn8nUrdk</td>
+    <td></td>
+    <td>https://youtu.be/IMfAn8nUrdk</td>
   </tr>
 
-         <tr>
+   <tr>
     <td>22</td>
     <td>Racer game</td>
     <td></td>
-     <td></td>
-     <td>https://youtu.be/IMfAn8nUrdk</td>
+    <td></td>
+    <td>https://youtu.be/IMfAn8nUrdk</td>
   </tr>
 
    <tr>
     <td>23</td>
     <td>Animate your name</td>
     <td></td>
-     <td></td>
-     <td>https://youtu.be/a3DxUsJsbb0</td>
+    <td></td>
+    <td>https://youtu.be/a3DxUsJsbb0</td>
   </tr>
   
 </table>
