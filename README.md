@@ -93,28 +93,125 @@ Free programming training for children 7-15 years old in Kurdish </br>
      <td>گرفتن ورودی </td>
      <td>https://youtu.be/BDM70EQdw-U</td>
   </tr>
- 
 
+
+  <tr>
+    <td>11</td>
+    <td>Single choice input</td>
+    <td></td>
+     <td></td>
+     <td>https://youtu.be/t2Dsd1Lzhxk</td>
+  </tr>
+
+  <tr>
+    <td>12</td>
+    <td>Variable</td>
+    <td></td>
+     <td></td>
+     <td>https://youtu.be/Fqk5GGOvUEU</td>
+  </tr>
+  
+    <tr>
+    <td>13</td>
+    <td>Function and join text</td>
+    <td></td>
+     <td></td>
+     <td>https://youtu.be/3mGDNjie7gQ</td>
+  </tr>
+
+
+   <tr>
+    <td>14</td>
+    <td>Play a sound</td>
+    <td></td>
+     <td></td>
+     <td>https://youtu.be/EgUQoNt8AtE</td>
+  </tr>
+
+
+
+
+     <tr>
+    <td>15</td>
+    <td>Random Position</td>
+    <td></td>
+     <td></td>
+     <td>https://youtu.be/UbAdodAi6pA</td>
+  </tr>
+
+
+     <tr>
+    <td>16</td>
+    <td>Pen</td>
+    <td></td>
+     <td></td>
+     <td>https://youtu.be/MdGlaXE2foc</td>
+  </tr>
+
+       <tr>
+    <td>17</td>
+    <td>Phisics</td>
+    <td></td>
+     <td></td>
+     <td>https://youtu.be/UJCE28JVrpI</td>
+  </tr>
+
+     <tr>
+    <td>18</td>
+    <td>Augumented reality</td>
+    <td></td>
+     <td></td>
+     <td>https://youtu.be/3KHdiQyW1Us</td>
+  </tr>
+
+
+       <tr>
+    <td>19</td>
+    <td>Obstacles game</td>
+    <td></td>
+     <td></td>
+      <td>https://youtu.be/LcnhTYb_Bg8</td>
+  </tr>
+
+       <tr>
+    <td>20</td>
+    <td>Spinning ovals animation</td>
+    <td></td>
+     <td></td>
+     <td>https://youtu.be/Y4QMM4JFd5s</td>
+  </tr>
+  
+        <tr>
+    <td>22</td>
+    <td>Racer game</td>
+    <td></td>
+     <td></td>
+     <td>https://youtu.be/IMfAn8nUrdk</td>
+  </tr>
+
+         <tr>
+    <td>22</td>
+    <td>Racer game</td>
+    <td></td>
+     <td></td>
+     <td>https://youtu.be/IMfAn8nUrdk</td>
+  </tr>
+
+   <tr>
+    <td>23</td>
+    <td>Animate your name</td>
+    <td></td>
+     <td></td>
+     <td>https://youtu.be/a3DxUsJsbb0</td>
+  </tr>
+  
 </table>
 
 
 
 
 
-11-Single choice input
-https://youtu.be/t2Dsd1Lzhxk
-
-12-Variable
-https://youtu.be/Fqk5GGOvUEU
-
-13-Function and join text
-https://youtu.be/3mGDNjie7gQ
 
 
-14-Play a sound
-https://youtu.be/EgUQoNt8AtE
-
-15-Random Position
-https://youtu.be/UbAdodAi6pA
 
 
