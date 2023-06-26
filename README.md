@@ -111,14 +111,14 @@ Free programming training for children 7-15 years old in Kurdish </br>
      <td> https://youtu.be/Fqk5GGOvUEU </td>
   </tr>
   
-    <tr>
+  
+  <tr>
     <td>13</td>
     <td> Function and join text </td>
-    <td></td>
-     <td></td>
-     <td> https://youtu.be/3mGDNjie7gQ</td>
+    <td> </td>
+     <td> </td>
+     <td> https://youtu.be/3mGDNjie7gQ </td>
   </tr>
-
 
    <tr>
     <td>14</td>
