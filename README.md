@@ -128,10 +128,7 @@ Free programming training for children 7-15 years old in Kurdish </br>
      <td> https://youtu.be/EgUQoNt8AtE </td>
   </tr>
 
-
-
-
-    <tr>
+   <tr>
     <td>15</td>
     <td>Random Position</td>
     <td></td>
@@ -140,6 +137,7 @@ Free programming training for children 7-15 years old in Kurdish </br>
   </tr>
 
 
+ 
      <tr>
     <td>16</td>
     <td>Pen</td>
@@ -148,23 +146,23 @@ Free programming training for children 7-15 years old in Kurdish </br>
      <td> https://youtu.be/MdGlaXE2foc </td>
   </tr>
 
-   <tr>
+
+ <tr>
     <td>17</td>
     <td>Phisics</td>
     <td></td>
      <td></td>
      <td>https://youtu.be/UJCE28JVrpI</td>
   </tr>
-
-    <tr>
+  
+   <tr>
     <td>18</td>
     <td>Augumented reality</td>
     <td></td>
      <td></td>
      <td>https://youtu.be/3KHdiQyW1Us</td>
   </tr>
-
-
+ 
        <tr>
     <td>19</td>
     <td>Obstacles game</td>
@@ -172,6 +170,8 @@ Free programming training for children 7-15 years old in Kurdish </br>
      <td></td>
       <td>https://youtu.be/LcnhTYb_Bg8</td>
   </tr>
+
+
 
        <tr>
     <td>20</td>
