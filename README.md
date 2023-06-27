@@ -146,8 +146,8 @@ Free programming training for children 7-15 years old in Kurdish </br>
   <tr>
     <td>17</td>
     <td>Phisics</td>
-    <td></td>
-    <td></td>
+    <td>فیزیا</td>
+    <td>فیزیک</td>
     <td>https://youtu.be/UJCE28JVrpI</td>
   </tr>
 
@@ -155,8 +155,8 @@ Free programming training for children 7-15 years old in Kurdish </br>
    <tr>
     <td>18</td>
     <td>Augumented reality</td>
-    <td></td>
-     <td></td>
+    <td>واقیعی زیادکراو</td>
+     <td>واقعیت افزوده</td>
      <td>https://youtu.be/3KHdiQyW1Us</td>
   </tr>
 
@@ -166,8 +166,8 @@ Free programming training for children 7-15 years old in Kurdish </br>
  <tr>
     <td>19</td>
     <td>Obstacles game</td>
-    <td></td>
-    <td></td>
+    <td>یاری ئاستەنگەکان</td>
+    <td>بازی موانع</td>
     <td>https://youtu.be/LcnhTYb_Bg8</td>
 </tr>
 
@@ -176,32 +176,32 @@ Free programming training for children 7-15 years old in Kurdish </br>
   <tr>
     <td>20</td>
     <td>Spinning ovals animation</td>
-    <td></td>
-    <td></td>
+    <td>ئەنیمەیشنی بازنەکانی سووڕاوە</td>
+    <td>انیمیشن دایره های چرخان</td>
     <td>https://youtu.be/Y4QMM4JFd5s</td>
   </tr>
   
   <tr>
     <td>21</td>
     <td>Space shooter game</td>
-    <td></td>
-    <td></td>
+    <td>یاری تەقەکەری بۆشایی ئاسمان</td>
+    <td>بازی تیرانداز فضایی</td>
     <td>https://youtu.be/sVqs_dBqDqE</td>
   </tr>
 
    <tr>
     <td>22</td>
     <td>Racer game</td>
-    <td></td>
-    <td></td>
+    <td>یاری پێشبڕکێکار</td>
+    <td>بازی مسابقه ای</td>
     <td>https://youtu.be/IMfAn8nUrdk</td>
   </tr>
 
    <tr>
     <td>23</td>
     <td>Animate your name</td>
-    <td></td>
-    <td></td>
+    <td>ناوەکەت ئەنیمەیشن بکە</td>
+    <td>نام خود را متحرک کنید</td>
     <td>https://youtu.be/a3DxUsJsbb0</td>
   </tr>
   
